@@ -1,1 +1,2 @@
 # Blog_MedicinaFinal
+La infraestructura de salud en Santa Cruz, Bolivia, destaca por su red de hospitales y farmacias que brindan servicios médicos esenciales a la comunidad. Desde hospitales pioneros como el Hospital Obrero, fundado en 1954, hasta farmacias emblemáticas como Farmacia Chávez, estas instituciones no solo ofrecen atención médica de calidad, sino que también contribuyen al bienestar general y económico de la región. Descubre más sobre estos pilares de la salud en Santa Cruz, su historia, innovaciones y su papel fundamental en la sociedad
